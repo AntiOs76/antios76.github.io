@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>25度</title>
-    <link>https://degree25.com/</link>
-    <description>Recent content on 25度</description>
+    <title>Posts on 25度</title>
+    <link>https://degree25.com/posts/</link>
+    <description>Recent content in Posts on 25度</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Fri, 14 Mar 2025 18:00:55 +0800</lastBuildDate><atom:link href="https://degree25.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Mar 2025 18:00:55 +0800</lastBuildDate><atom:link href="https://degree25.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>3d Calculator</title>
