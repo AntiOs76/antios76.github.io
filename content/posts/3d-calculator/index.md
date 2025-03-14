@@ -7,4 +7,4 @@ title = '3d Calculator'
 
 给大家看点图形学。当然选它只是因为感觉这是个很好看的测试网页。
 
-<iframe src="./3D graphing calculator nogreenflag" allowtransparency="true" width="480" height="360" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="/turbowarp/3D graphing calculator nogreenflag.html" allowtransparency="true" width="480" height="360" frameborder="0" scrolling="no" allowfullscreen></iframe>
